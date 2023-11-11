@@ -1,3 +1,5 @@
+theme: minima
+
 # Project Wise Angel
 
 Time for more content!
