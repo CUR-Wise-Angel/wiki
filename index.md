@@ -1,8 +1,6 @@
-theme: minima
-
 # Project Wise Angel
 
-Time for more content!
+## Getting Started
+The first step is to [join the Wise-Angel VPN](./tailscale.md).
 
-Testing a link to [Docker](./docker.md).
-
+More to come...
